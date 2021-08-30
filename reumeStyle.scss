@@ -1,0 +1,53 @@
+@import 'navStyle';
+@import 'jumbotron';
+@import 'rows';
+@import 'progressBar';
+@import 'spinners';
+@import 'tabs';
+@import 'variables';
+@import 'carousel';
+
+
+.card{
+  width: 18rem;
+  margin: 3rem;
+  padding: 0;
+  border-radius: $BorderRad1;
+}
+.about{
+  color: $headingText;
+  padding-left: 3rem;
+  background-color: $Section ;
+  font-size: $HeadingFont;
+}
+
+.myCards{
+  margin-right: auto;
+  margin-left: auto;
+  background-color: $Secondary;
+  img{
+    border-radius: $BorderRad1;
+  }
+  h5{
+    color: $headingText;
+  }
+}
+body{
+  background-color: $Primary;
+}
+.nav-link{
+  color: $headingBG;
+  a{
+    color: $headingBG;
+  }
+}
+.myName{
+  color: #32322C;
+}
+.jumbotron{
+  background-color: $Section;
+  color: white;
+}
+
+
+

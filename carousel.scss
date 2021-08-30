@@ -1,0 +1,14 @@
+@import 'variables';
+.carousel{
+  align-content: center;
+  text-align: center;
+  alignment: center;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2rem;
+  background-color: $Secondary;
+  img{
+    width: 75%;
+    height: 75%;
+  }
+}

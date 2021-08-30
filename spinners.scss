@@ -1,0 +1,14 @@
+@import 'variables';
+.spinner-border{
+  width: 20px;
+  height: 20px;
+}
+.HtmlSpin{
+  color: $HtmlColor;
+}
+.JavascriptSpin{
+  color: $JavascriptColor;
+}
+.placeholderSpin{
+  color: $Secondary;
+}

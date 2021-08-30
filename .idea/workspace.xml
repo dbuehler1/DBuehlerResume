@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f7adaf8-bc2f-4b96-983d-b5ed35d270b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xPhLq5Ewvu6951gcxXbez7Leqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wisfa\DBuehlerResume" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wisfa\DBuehlerResume" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7adaf8-bc2f-4b96-983d-b5ed35d270b5" name="Default Changelist" comment="" />
+      <created>1630262577580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630262577580</updated>
+      <workItem from="1630262578706" duration="2315000" />
+      <workItem from="1630265361987" duration="26284000" />
+      <workItem from="1630337830385" duration="1497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="6389" y="1361" key="EditFileWatcherDialog" timestamp="1630270452131">
+      <screen x="5760" y="1063" width="1920" height="1040" />
+    </state>
+    <state x="6389" y="1361" key="EditFileWatcherDialog/3840.1063.1920.1020/0.0.2560.1400/5760.1063.1920.1040@5760.1063.1920.1040" timestamp="1630270452131" />
+    <state x="3858" y="1039" width="1915" height="1027" maximized="true" key="dock-window-1" timestamp="1630338629108">
+      <screen x="3840" y="1063" width="1920" height="1020" />
+    </state>
+    <state x="3858" y="1039" width="1915" height="1027" maximized="true" key="dock-window-1/3840.1063.1920.1020/0.0.2560.1400/5760.1063.1920.1040@5760.1063.1920.1040" timestamp="1630271986037" />
+    <state x="733" y="332" width="2072" height="1387" key="dock-window-2" timestamp="1630295769720">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="733" y="332" width="2072" height="1387" key="dock-window-2/3840.1063.1920.1020/0.0.2560.1400/5760.1063.1920.1040@0.0.2560.1400" timestamp="1630295769720" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+@import 'variables';
+.jobDesc{
+color: white;
+}
+.jobTitle{
+  font-size: $BodyFont;
+  color: $headingText;
+  background-color: $headingBG;
+  border-radius: $BorderRad2;
+  padding: 3px;
+}
+.myTabs{
+  padding-top: 10px;
+  background-color: $Secondary;
+}

@@ -1,0 +1,25 @@
+@import 'variables';
+.aboutMe{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3px;
+  background-color: $Secondary;
+  p{
+    font-size: $BodyFont;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    background-color: $headingBG;
+    color: $Primary;
+    border-radius: $BorderRad1;
+  }
+  img{
+    border-radius: $BorderRad1;
+    width: 50%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+
+
